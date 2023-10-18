@@ -5,6 +5,24 @@ Tengo 23 años y actualmente estoy estudiando Desarrollo web en la Universidad N
 
 ### En curso
 
+<table style="width:100%">
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+    <th>Encabezado 3</th>
+  </tr>
+  <tr>
+    <td>Celda 1</td>
+    <td>Celda 2</td>
+    <td>Celda 3</td>
+  </tr>
+  <tr>
+    <td>Celda 4</td>
+    <td>Celda 5</td>
+    <td>Celda 6</td>
+  </tr>
+</table>
+
 #### Preguntados
 
 #### Truco
