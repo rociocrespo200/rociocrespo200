@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenidos 👋, Soy Rocio Crespo</h1>
-<h3 align="center">Tengo 23 años y actualmente estoy estudiando Desarrollo web en la Universidad Nacional de La Matanza. Estoy en busca de mi primer trabajo en el area IT.</h3>
+Tengo 23 años y actualmente estoy estudiando Desarrollo web en la Universidad Nacional de La Matanza. Estoy en busca de mi primer trabajo en el area IT.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
