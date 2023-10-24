@@ -10,7 +10,7 @@ Tengo 23 años y actualmente estoy estudiando Desarrollo web en la Universidad N
 |--------------------------------------------------------------------------------------|-------------------------------------------------|
 | ![Imagen 1](/imagenes/truco.png)                                                     | ![Imagen 2](/imagenes/pregundatos.png)          |
 | HTML - CSS- JavaScript - AJAX - Java - Spring Hibernate - Mockito - Maven - Tymeleaf | HTML - CSS- JavaScript - AJAX - PHP -  Mustache |
-|https://github.com/Cpinaud/G6-TRUCO/tree/master|https://github.com/rociocrespo200/Preguntados|
+|https://github.com/rociocrespo200/TRUCO                                       |https://github.com/rociocrespo200/Preguntados|
 
 ### Finalizados
 
